@@ -8,6 +8,7 @@ Thanks to some cool folks at UChi, I teach data visualisation workshops every qu
 1. [Data Art](https://events.uchicago.edu/event/254638-r-and-ggplot2-workshop) in R using `ggplot2`
 2. [Spatial Data visualisation](https://events.uchicago.edu/event/257015-introduction-to-ggmap-visualizing-spatial-data) in R using `ggmaps` 
 
+You can view a detailed CV [here!](https://github.com/khushineedssleep/khushineedssleep/blob/main/Khushi_Desai_CV_Resume.pdf)
 I like to occassionally ramble coherently on art, history, feminism, math, and all things code. If any of these topics interest you, come say [Hi!](mailto:khushi@uchicago.edu)
 
 _We used to think that if we knew one, we knew two, because one and one are two. We are finding that we must learn a great deal more about "and"._ 
