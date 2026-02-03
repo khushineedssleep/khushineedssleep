@@ -6,7 +6,7 @@ I graduated from [St. Xavier's College, Mumbai](https://xaviers.ac/) before join
 
 Thanks to some cool folks at UChi, I teach data visualisation workshops every quarter, at my favourite building on campus, the Reg. Check them out:
 1. [Data Art](https://events.uchicago.edu/event/254638-r-and-ggplot2-workshop) in R using `ggplot2`
-2. [Spatial Data visualisation](https://events.uchicago.edu/event/257015-introduction-to-ggmap-visualizing-spatial-data) in R using `ggmaps` 
+2. [Spatial Data visualisation](https://events.uchicago.edu/event/257015-introduction-to-ggmap-visualizing-spatial-data) in R using `ggmap` 
 
 You can view a detailed CV [here!](https://github.com/khushineedssleep/khushineedssleep/blob/main/Khushi_Desai_CV_Resume.pdf)
 I like to occassionally ramble coherently on art, history, feminism, math, and all things code. If any of these topics interest you, come say [Hi!](mailto:khushi@uchicago.edu)
