@@ -11,6 +11,15 @@ Thanks to some cool folks at UChi, I teach data visualisation workshops every qu
 You can view a detailed CV [here!](https://github.com/khushineedssleep/khushineedssleep/blob/main/Khushi_Desai_CV_Resume.pdf)
 I like to occassionally ramble coherently on art, history, feminism, math, and all things code. If any of these topics interest you, come say [Hi!](mailto:khushi@uchicago.edu)
 
+Here's a list of my technical skills:
+- Programming Languages- Python, R, STATA, HTML, SQL
+- Databases- SQL, Pandas, Tableau
+- Data Visualization- ggplot2, ggmap, gganimate, Tableau, pyViz
+- Machine Learning- Pytorch, TensorFlow, Cluster Analysis
+- Programming Skills- Algorithms, 
+- Mathematics and Statistics- Discrete Mathematics, Linear Algebra, Causal Inference, Hypothesis Testing
+- Other- Docket, Git, Linux
+
 _We used to think that if we knew one, we knew two, because one and one are two. We are finding that we must learn a great deal more about "and"._ 
 **-Sir Arthur Eddington**
 
