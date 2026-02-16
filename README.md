@@ -16,7 +16,7 @@ Here's a list of my technical skills:
 - Databases- SQL, Pandas, Tableau
 - Data Visualization- ggplot2, ggmap, gganimate, Tableau, pyViz
 - Machine Learning- Pytorch, TensorFlow, Cluster Analysis
-- Programming Skills- Algorithms, 
+- Programming Theory- Algorithms
 - Mathematics and Statistics- Discrete Mathematics, Linear Algebra, Causal Inference, Hypothesis Testing
 - Other- Docket, Git, Linux
 
