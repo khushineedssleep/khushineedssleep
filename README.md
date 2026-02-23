@@ -14,7 +14,7 @@ I like to occassionally ramble coherently on art, history, feminism, math, and a
 Here's a list of my technical skills:
 - Programming Languages- Python, R, STATA, HTML, SQL
 - Databases- SQL, Pandas, Tableau
-- Data Visualization- ggplot2, ggmap, gganimate, Tableau, pyViz
+- Data Visualization- ggplot2, ggmap, gganimate, Tableau, pyViz, shiny
 - Machine Learning- Pytorch, TensorFlow, Cluster Analysis
 - Programming Theory- Algorithms
 - Mathematics and Statistics- Discrete Mathematics, Linear Algebra, Causal Inference, Hypothesis Testing
