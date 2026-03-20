@@ -12,13 +12,13 @@ You can view a detailed CV [here!](https://github.com/khushineedssleep/khushinee
 I like to occassionally ramble coherently on art, history, feminism, math, and all things code. If any of these topics interest you, come say [Hi!](mailto:khushi@uchicago.edu)
 
 Here's a list of my technical skills:
-- Programming Languages- Python, R, STATA, HTML, SQL
-- Databases- SQL, Pandas, Tableau
-- Data Visualization- ggplot2, ggmap, gganimate, Tableau, pyViz, shiny
-- Machine Learning- Pytorch, TensorFlow, Cluster Analysis
+- Programming Languages- Python, R, SQL, HTML
+- Databases- SQL, Pandas
+- Data Visualization- ggplot2, ggmap, gganimate, Tableau, pyViz, shiny, plotly
+- Machine Learning- Pytorch, TensorFlow
 - Programming Theory- Algorithms
 - Mathematics and Statistics- Discrete Mathematics, Linear Algebra, Causal Inference, Hypothesis Testing
-- Other- Docket, Git, Linux
+- Other- Docker, Git
 
 _We used to think that if we knew one, we knew two, because one and one are two. We are finding that we must learn a great deal more about "and"._ 
 **-Sir Arthur Eddington**
